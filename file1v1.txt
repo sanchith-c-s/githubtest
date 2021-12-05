@@ -2,3 +2,4 @@ welcome to bit final demo
 file 1 to add in remoto
 good evening
 after changes
+i am doing git project
